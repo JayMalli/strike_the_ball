@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://firebasestorage.googleapis.com/v0/b/creative-coding-92146.appspot.com/o/img%2Fstrike_the_ball.png?alt=media&token=88c3032f-ac29-41c7-8a2d-c51f7f2baee1" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Strike the ball</h3>
